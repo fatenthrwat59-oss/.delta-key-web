@@ -1,0 +1,10 @@
+local function UDG(password)
+    if password == "maalek_1234" then
+        print("maalek_hub_71527229hhwhauaga")
+    else
+        warn("كلمة السر خاطئة يا بطل")
+    end
+end
+
+return {UDG = UDG}
+
